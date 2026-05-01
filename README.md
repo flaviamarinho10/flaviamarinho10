@@ -35,10 +35,15 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br><sub>HTML5</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br><sub>CSS3</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br><sub>JavaScript</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br><sub>TypeScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><sub>Python</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><sub>MySQL</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><sub>Git</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br><sub>GitHub</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /><br><sub>Vercel</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=supabase" /><br><sub>Supabase</sub></td>
     </tr>
   </table>
 </div>
