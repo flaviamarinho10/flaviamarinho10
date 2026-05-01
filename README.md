@@ -115,11 +115,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&hide=stars,prs,issues" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviamarinho10&langs_count=7&theme=dracula&locale=pt-br&custom_title=Linguagens&layout=compact" alt="Linguagens mais usadas" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&hide=stars,prs,issues&hide_border=true&bg_color=00000000" alt="Estatísticas do GitHub" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviamarinho10&langs_count=7&theme=dracula&locale=pt-br&custom_title=Linguagens&layout=compact&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
 </div>
 
 
