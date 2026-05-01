@@ -45,7 +45,7 @@
       <b>SaaS de Catálogos Digitais</b><br>
       Plataforma SaaS multi-tenant para criação e exibição de catálogos digitais. Possui planos Free/Pro, integração com API de pagamento (Karvis PAY) e integração com WhatsApp para contato direto.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
   </tr>
   <tr>
