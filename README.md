@@ -47,7 +47,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamarinho10&layout=compact&langs_count=7&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamarinho10&langs_count=7&theme=dracula&locale=pt-br&hide=typescript&custom_title=Linguagens" alt="Linguagens mais usadas" />
 </div>
 
 ---
