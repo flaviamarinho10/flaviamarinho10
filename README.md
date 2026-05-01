@@ -53,8 +53,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flaviamarinho10&theme=dracula&utcOffset=-3" alt="Horário Mais Produtivo" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviamarinho10&theme=dracula" alt="Detalhes do Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviamarinho10&theme=dracula" alt="Detalhes do Perfil" />
 </div>
 
 ---
