@@ -99,14 +99,24 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br><sub>CSS3</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br><sub>JavaScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br><sub>TypeScript</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><sub>Python</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><sub>MySQL</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br><sub>React</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vite" /><br><sub>Vite</sub></td>
     </tr>
     <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br><sub>Node.js</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><sub>Python</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><sub>MySQL</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><sub>Git</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br><sub>GitHub</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /><br><sub>Vercel</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=supabase" /><br><sub>Supabase</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" /><br><sub>Figma</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ps" /><br><sub>Photoshop</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pr" /><br><sub>Premiere</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br><sub>VS Code</sub></td>
+      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="48"/><br><sub>Antigravity</sub></td>
     </tr>
   </table>
 </div>
