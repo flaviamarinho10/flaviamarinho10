@@ -13,10 +13,9 @@
 ### 👩‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Estácio)
-- 💼 Estagiária na **Secretaria de Educação do RN (SEEC)**
-- 📦 **Infoprodutora digital**, criadora do **SimBox** (conteúdos e mods para The Sims 4)
+- 💼 Trabalho na **Secretaria de Educação do RN (SEEC)**
+- 📦 **Infoprodutora digital**, criadora do **SimBox** Um infoproduto digital voltado para a comunidade de The Sims 4
 - 🚀 Focada em **evolução constante** na área de desenvolvimento de sistemas
-- 🧠 Interesse em **lógica de programação**, estrutura de sistemas e boas práticas
 
 ---
 
@@ -25,7 +24,7 @@
 - 📚 **Catálogo Fácil (SaaS de Catálogos Digitais)**<br>Plataforma SaaS multi-tenant para criação e exibição de catálogos digitais. Possui planos Free/Pro, integração com API de pagamento (Karvis PAY), integração com WhatsApp para contato direto e foco na divulgação profissional de produtos.
 - 🛠️ **SGMP — Sistema de Gestão e Monitoramento de Projetos**<br>Sistema web para acompanhamento de projetos e tarefas, com cadastro de projetos, tarefas, responsáveis e prazos. Inclui controle de status, perfis de acesso (admin e usuários) e histórico de atualizações, voltado para organização de demandas e acompanhamento em tempo real.
 - 🎮 **SimBox (Produto Digital)**<br>Plataforma digital voltada para o público de The Sims 4, com estrutura para apresentação e distribuição de conteúdos personalizados. Foco em organização de informações e experiência do usuário com navegação simples e intuitiva.
-- 🛡️ **Protege EduC**<br>Projeto voltado para soluções educacionais e organização de processos.
+- 🛡️ **Protege Educ**<br>Projeto voltado para soluções educacionais e organização de processos.
 - 🌐 **Outros Projetos**<br>Aplicações web simples desenvolvidas para estudo, prática e consolidação de conhecimentos na área de desenvolvimento.
 
 ---
@@ -47,8 +46,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamarinho10&layout=compact&langs_count=7&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamarinho10&layout=compact&langs_count=7&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
 ---
