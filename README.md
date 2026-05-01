@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/0Va7annrDY4AAAAM/peach-cat-laptop-peach-cat-typing.gif" width="120" />
+  <img src="https://media.giphy.com/media/L1R1TVr9W5RIc/giphy.gif" width="120" />
 
   <h1>Olá! Eu sou Flávia Regina</h1>
   <h3>Desenvolvedora Fullstack • Infoprodutora Digital</h3>
@@ -115,7 +115,7 @@
 
 ---
 
-### ⚡ Linguagens
+### 📊 Linguagens
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviamarinho10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" alt="Linguagens mais usadas" />
@@ -124,5 +124,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer" width="100%"/>
 </div>
