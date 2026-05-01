@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="150" />
+  <img src="https://media.tenor.com/0Va7annrDY4AAAAM/peach-cat-laptop-peach-cat-typing.gif" width="150" />
 
   <br>
 
