@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/ios-glyphs/30/ffffff/lipstick.png" width="24"/> Shine Glam</h3>
+      <h3>✦ Shine Glam</h3>
       <b>E-commerce de Maquiagem</b><br>
       Desenvolvimento de um site de vendas com estrutura completa, incluindo painel administrativo para gerenciamento de produtos, pedidos e usuários, além de painel do cliente com navegação e acompanhamento de compras.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/ios-glyphs/30/ffffff/book.png" width="24"/> Catálogo Fácil</h3>
+      <h3>✦ Catálogo Fácil</h3>
       <b>SaaS de Catálogos Digitais</b><br>
       Plataforma SaaS multi-tenant para criação e exibição de catálogos digitais. Possui planos Free/Pro, integração com API de pagamento (Karvis PAY) e integração com WhatsApp para contato direto.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/ios-glyphs/30/ffffff/settings.png" width="24"/> SGMP</h3>
+      <h3>✦ SGMP</h3>
       <b>Sistema de Gestão e Monitoramento</b><br>
       Sistema web para acompanhamento de projetos e tarefas, com cadastro de responsáveis e prazos. Inclui controle de status, perfis de acesso e histórico de atualizações em tempo real.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -64,7 +64,7 @@
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/ios-glyphs/30/ffffff/controller.png" width="24"/> SimBox</h3>
+      <h3>✦ SimBox</h3>
       <b>Produto Digital</b><br>
       Plataforma digital voltada para a comunidade de The Sims 4, estruturada para apresentação e distribuição de conteúdos personalizados com foco em organização e experiência do usuário intuitiva.<br><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -75,13 +75,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/ios-glyphs/30/ffffff/shield.png" width="24"/> Protege Educ</h3>
+      <h3>✦ Protege Educ</h3>
       Projeto voltado para soluções educacionais e organização de processos internos.<br><br>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://img.icons8.com/ios-glyphs/30/ffffff/globe.png" width="24"/> Outros Projetos</h3>
+      <h3>✦ Outros Projetos</h3>
       Aplicações web simples desenvolvidas para estudo, prática e consolidação de conhecimentos na área de desenvolvimento de software.<br><br>
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
     </td>
