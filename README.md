@@ -53,8 +53,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviamarinho10&langs_count=7&theme=dracula&locale=pt-br&hide=typescript&custom_title=Linguagens" alt="Linguagens mais usadas" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=flaviamarinho10&theme=dracula&locale=pt_BR" alt="Estatísticas de Contribuição" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviamarinho10&theme=dracula" alt="Detalhes do Perfil" />
 </div>
 
 ---
