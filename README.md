@@ -30,9 +30,17 @@
 ### ⚙️ Tecnologias
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github" alt="Tecnologias" />
-  </a>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" /><br><sub>HTML5</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" /><br><sub>CSS3</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" /><br><sub>JavaScript</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><sub>Python</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><sub>MySQL</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><sub>Git</sub></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br><sub>GitHub</sub></td>
+    </tr>
+  </table>
 </div>
 
 ---
