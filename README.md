@@ -38,6 +38,8 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br><sub>TypeScript</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><sub>Python</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br><sub>MySQL</sub></td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><sub>Git</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br><sub>GitHub</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /><br><sub>Vercel</sub></td>
