@@ -94,23 +94,11 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviamarinho10&theme=dracula" alt="Detalhes do Perfil" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviamarinho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviamarinho10&langs_count=7&theme=dracula&locale=pt-br&hide=typescript&custom_title=Linguagens" alt="Linguagens mais usadas" />
 </div>
 
 
-
-<br>
-
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/fiestaparrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="35"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/originalparrot.gif" width="35"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer" width="100%"/>
