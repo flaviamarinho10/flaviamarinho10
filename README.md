@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Mulher Tecnologista" width="120" />
-
-  # Olá, Mundo! Eu sou a Flávia Regina 👋
+  <h1>👩‍💻 Olá, Mundo! Eu sou a Flávia Regina 👋</h1>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Infoprodutora+Digital;Estudante+de+ADS" alt="Animação de Digitação" /></a>
+  <h3>Desenvolvedora Fullstack • Infoprodutora Digital • Estudante de ADS</h3>
 
   > *Gosto de construir soluções simples, funcionais e bem estruturadas, sempre buscando evoluir como desenvolvedora.* ✨
 </div>
