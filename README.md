@@ -116,7 +116,7 @@
       <td align="center"><img src="https://skillicons.dev/icons?i=ps" /><br><sub>Photoshop</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=pr" /><br><sub>Premiere</sub></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br><sub>VS Code</sub></td>
-      <td align="center"><img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="48"/><br><sub>Antigravity</sub></td>
+      <td align="center"><img src="https://github.com/lobehub.png" width="48"/><br><sub>Antigravity</sub></td>
     </tr>
   </table>
 </div>
