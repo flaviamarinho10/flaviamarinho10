@@ -18,12 +18,42 @@
 ---
 
 ### 💻 Atuação e Projetos
-- 💄 **Shine Glam (E-commerce de Maquiagem)**<br>Desenvolvimento de um site de vendas com estrutura completa de e-commerce, incluindo painel administrativo para gerenciamento de produtos, pedidos e usuários, além de painel do cliente com navegação, carrinho e acompanhamento de compras.
-- 📚 **Catálogo Fácil (SaaS de Catálogos Digitais)**<br>Plataforma SaaS multi-tenant para criação e exibição de catálogos digitais. Possui planos Free/Pro, integração com API de pagamento (Karvis PAY), integração com WhatsApp para contato direto e foco na divulgação profissional de produtos.
-- 🛠️ **SGMP — Sistema de Gestão e Monitoramento de Projetos**<br>Sistema web para acompanhamento de projetos e tarefas, com cadastro de projetos, tarefas, responsáveis e prazos. Inclui controle de status, perfis de acesso (admin e usuários) e histórico de atualizações, voltado para organização de demandas e acompanhamento em tempo real.
-- 🎮 **SimBox (Produto Digital)**<br>Plataforma digital voltada para o público de The Sims 4, com estrutura para apresentação e distribuição de conteúdos personalizados. Foco em organização de informações e experiência do usuário com navegação simples e intuitiva.
-- 🛡️ **Protege Educ**<br>Projeto voltado para soluções educacionais e organização de processos.
-- 🌐 **Outros Projetos**<br>Aplicações web simples desenvolvidas para estudo, prática e consolidação de conhecimentos na área de desenvolvimento.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💄 Shine Glam</h3>
+      <b>E-commerce de Maquiagem</b><br>
+      Desenvolvimento de um site de vendas com estrutura completa, incluindo painel administrativo para gerenciamento de produtos, pedidos e usuários, além de painel do cliente com navegação e acompanhamento de compras.
+    </td>
+    <td width="50%">
+      <h3>📚 Catálogo Fácil</h3>
+      <b>SaaS de Catálogos Digitais</b><br>
+      Plataforma SaaS multi-tenant para criação e exibição de catálogos digitais. Possui planos Free/Pro, integração com API de pagamento (Karvis PAY) e integração com WhatsApp para contato direto.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛠️ SGMP</h3>
+      <b>Sistema de Gestão e Monitoramento</b><br>
+      Sistema web para acompanhamento de projetos e tarefas, com cadastro de responsáveis e prazos. Inclui controle de status, perfis de acesso e histórico de atualizações em tempo real.
+    </td>
+    <td width="50%">
+      <h3>🎮 SimBox</h3>
+      <b>Produto Digital</b><br>
+      Plataforma digital voltada para a comunidade de The Sims 4, estruturada para apresentação e distribuição de conteúdos personalizados com foco em organização e experiência do usuário intuitiva.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Protege Educ</h3>
+      Projeto voltado para soluções educacionais e organização de processos internos.
+    </td>
+    <td width="50%">
+      <h3>🌐 Outros Projetos</h3>
+      Aplicações web simples desenvolvidas para estudo, prática e consolidação de conhecimentos na área de desenvolvimento de software.
+    </td>
+  </tr>
+</table>
 
 ---
 
