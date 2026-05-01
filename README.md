@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVr9W5RIc/giphy.gif" width="120" />
+  <img src="https://media.tenor.com/0Va7annrDY4AAAAM/peach-cat-laptop-peach-cat-typing.gif" width="120" />
 
   <h1>Olá! Eu sou Flávia Regina</h1>
   <h3>Desenvolvedora Fullstack • Infoprodutora Digital</h3>
