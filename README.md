@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=250&section=header&text=Flávia%20Regina&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Desenvolvedora%20Fullstack&descAlignY=60&descSize=25" width="100%" />
+
+  <br>
+
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/flaviamarinho10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  
   <br><br>
-  
-  <h1>Olá! Eu sou Flávia Regina</h1>
-  
-  <h3>Desenvolvedora Fullstack • Infoprodutora Digital</h3>
 
   > *Gosto de construir soluções simples, funcionais e bem estruturadas, sempre buscando evoluir como desenvolvedora.* ✨
 </div>
@@ -13,10 +16,22 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Estácio)
-- 💼 Trabalho na **Secretaria de Educação do RN (SEEC)**
-- 📦 **Infoprodutora digital**, criadora do **SimBox** Um infoproduto digital voltado para a comunidade de The Sims 4
-- 🚀 Focada em **evolução constante** na área de desenvolvimento de sistemas
+<br>
+
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> (Estácio)<br><br>
+        💼 Trabalho na <b>Secretaria de Educação do RN (SEEC)</b>
+      </td>
+      <td width="50%" valign="top">
+        📦 <b>Infoprodutora digital</b>, criadora do <b>SimBox</b> (para The Sims 4)<br><br>
+        🚀 Focada em <b>evolução constante</b> no desenvolvimento de sistemas
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -89,17 +104,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviamarinho10&theme=dracula" alt="Detalhes do Perfil" />
 </div>
 
----
 
-### 📫 Onde você pode me achar
-
-<div align="left">
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/flaviamarinho10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer" width="100%"/>
