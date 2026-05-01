@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=250&section=header&text=Flávia%20Regina&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Desenvolvedora%20Fullstack&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <h1>Olá! Eu sou Flávia Regina</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Infoprodutora+Digital" alt="Typing SVG" />
 
-  <br>
+  <br><br>
 
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -16,22 +19,10 @@
 
 ### 👩‍💻 Sobre mim
 
-<br>
-
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> (Estácio)<br><br>
-        💼 Trabalho na <b>Secretaria de Educação do RN (SEEC)</b>
-      </td>
-      <td width="50%" valign="top">
-        📦 <b>Infoprodutora digital</b>, criadora do <b>SimBox</b> (para The Sims 4)<br><br>
-        🚀 Focada em <b>evolução constante</b> no desenvolvimento de sistemas
-      </td>
-    </tr>
-  </table>
-</div>
+> 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Estácio)  
+> 💼 Trabalho na **Secretaria de Educação do RN (SEEC)**  
+> 📦 **Infoprodutora digital**, criadora do **SimBox** (para The Sims 4)  
+> 🚀 Focada em **evolução constante** no desenvolvimento de sistemas
 
 ---
 
