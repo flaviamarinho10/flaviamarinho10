@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>👩‍💻 Olá, Mundo! Eu sou a Flávia Regina 👋</h1>
+  <h1>👩‍💻 Olá! Eu sou Flávia Regina 👋</h1>
   
-  <h3>Desenvolvedora Fullstack • Infoprodutora Digital • Estudante de ADS</h3>
+  <h3>Desenvolvedora Fullstack • Infoprodutora Digital</h3>
 
   > *Gosto de construir soluções simples, funcionais e bem estruturadas, sempre buscando evoluir como desenvolvedora.* ✨
 </div>
