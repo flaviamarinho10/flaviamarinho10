@@ -53,6 +53,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=flaviamarinho10&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
+  
+  <br><br>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flaviamarinho10&theme=dracula" alt="Detalhes do Perfil" />
 </div>
 
