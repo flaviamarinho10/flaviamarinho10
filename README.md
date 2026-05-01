@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://media.tenor.com/0Va7annrDY4AAAAM/peach-cat-laptop-peach-cat-typing.gif" width="150" />
-
-  <br>
+  <img src="https://media.tenor.com/0Va7annrDY4AAAAM/peach-cat-laptop-peach-cat-typing.gif" width="120" />
 
   <h1>Olá! Eu sou Flávia Regina</h1>
   <h3>Desenvolvedora Fullstack • Infoprodutora Digital</h3>
 
-  <br>
-
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:flavinhareginaom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/_flaviamarinhoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/flaviamarinho10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   
   <br><br>
@@ -17,7 +13,7 @@
   > *Gosto de construir soluções simples, funcionais e bem estruturadas, sempre buscando evoluir como desenvolvedora.* ✨
 </div>
 
-<br/>
+<br>
 
 ### 👩‍💻 Sobre mim
 
