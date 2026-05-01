@@ -99,6 +99,19 @@
 
 
 
+<br>
+
+<div align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/fiestaparrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="35"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/originalparrot.gif" width="35"/>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer" width="100%"/>
 </div>
