@@ -118,7 +118,7 @@
 ### 📊 Linguagens
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviamarinho10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats-pi-six.vercel.app/api/top-langs/?username=flaviamarinho10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
 
