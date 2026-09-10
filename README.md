@@ -14,7 +14,7 @@
 ### 👩‍💻 Sobre mim
 
 > 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Estácio)  
-> 💼 Trabalho na **Secretaria de Educação do RN (SEEC)**  
+> 💼 Trabalho na **Secretaria de Estado da Administração Penitenciária** como **desenvolvedora Full Stack**  
 > 📦 **Infoprodutora digital**, criadora do **SimBox** (para The Sims 4)  
 > 🚀 Focada em **evolução constante** no desenvolvimento de sistemas
 
