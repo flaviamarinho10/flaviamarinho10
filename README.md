@@ -30,10 +30,8 @@
 
 ---
 
-## Tecnologias
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,django,mysql,git,github,gitlab,vercel,supabase,figma,ps,pr,vscode" />
+  <img src="./toolbox.svg" width="100%" alt="Toolbox: tecnologias e ferramentas" />
 </div>
 
 <br/>
