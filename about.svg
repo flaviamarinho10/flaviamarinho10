@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 324" width="860" height="324" role="img" aria-label="Sobre mim">
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .label { font-size: 15px; font-weight: 600; fill: #eaeaea; }
+    .desc { font-size: 12.5px; font-weight: 400; fill: #9a9a9e; }
+    .emoji { font-size: 19px; }
+  </style>
+
+  <g>
+    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
+    <text x="36" y="42" text-anchor="middle" class="emoji">🎓</text>
+    <text x="72" y="30" class="label">Formação</text>
+    <text x="72" y="50" class="desc">Cursando Análise e Desenvolvimento de Sistemas (Estácio)</text>
+  </g>
+
+  <g transform="translate(0,84)">
+    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
+    <text x="36" y="42" text-anchor="middle" class="emoji">💼</text>
+    <text x="72" y="30" class="label">Atuação</text>
+    <text x="72" y="50" class="desc">Secretaria de Estado da Administração Penitenciária — Desenvolvedora Full Stack</text>
+  </g>
+
+  <g transform="translate(0,168)">
+    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
+    <text x="36" y="42" text-anchor="middle" class="emoji">📦</text>
+    <text x="72" y="30" class="label">Infoprodutos</text>
+    <text x="72" y="50" class="desc">Infoprodutora digital, criadora do SimBox (para The Sims 4)</text>
+  </g>
+
+  <g transform="translate(0,252)">
+    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
+    <text x="36" y="42" text-anchor="middle" class="emoji">🚀</text>
+    <text x="72" y="30" class="label">Objetivo</text>
+    <text x="72" y="50" class="desc">Evolução constante no desenvolvimento de sistemas</text>
+  </g>
+</svg>
