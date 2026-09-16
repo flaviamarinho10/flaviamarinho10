@@ -46,7 +46,7 @@
     <rect x="0.5" y="0.5" width="859" height="141" rx="12" fill="none" stroke="#2c2c30"/>
     <text x="110" y="30"><tspan class="title">02 &#183; Catálogo Fácil</tspan><tspan class="role"> &#8212; SaaS de Catálogos Digitais</tspan></text>
     <text x="110" y="52" class="desc">Plataforma multi-tenant para criação e exibição de catálogos digitais, com planos Free/Pro,</text>
-    <text x="110" y="69" class="desc">pagamento via Karvis PAY e integração com WhatsApp.</text>
+    <text x="110" y="69" class="desc">pagamento via Mercado Pago e integração com WhatsApp.</text>
     <g transform="translate(0,90)">
       <rect x="110" y="0" width="86" height="24" rx="5" class="tagr"/><text x="153" y="16" text-anchor="middle" class="tagt">TypeScript</text>
       <rect x="204" y="0" width="46" height="24" rx="5" class="tagr"/><text x="227" y="16" text-anchor="middle" class="tagt">CSS3</text>
