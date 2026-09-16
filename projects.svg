@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 878" width="860" height="878" role="img" aria-label="Projetos">
+  <defs>
+    <clipPath id="cp1"><rect x="0" y="0" width="860" height="142" rx="12"/></clipPath>
+    <clipPath id="cp2"><rect x="0" y="0" width="860" height="142" rx="12"/></clipPath>
+    <clipPath id="cp3"><rect x="0" y="0" width="860" height="142" rx="12"/></clipPath>
+    <clipPath id="cp4"><rect x="0" y="0" width="860" height="142" rx="12"/></clipPath>
+    <clipPath id="cp5"><rect x="0" y="0" width="860" height="125" rx="12"/></clipPath>
+    <clipPath id="cp6"><rect x="0" y="0" width="860" height="125" rx="12"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .num { font-size: 80px; font-weight: 700; fill: #202024; }
+    .title { font-size: 15px; font-weight: 600; fill: #eaeaea; }
+    .role { font-size: 13.5px; font-style: italic; fill: #9a9a9e; }
+    .desc { font-size: 12.5px; fill: #9a9a9e; }
+    .tagr { fill: #1c1c1f; stroke: #34343a; stroke-width: 1; }
+    .tagt { font-size: 11.5px; fill: #eaeaea; }
+  </style>
+
+  <!-- 01 Shine Glam -->
+  <g transform="translate(0,0)">
+    <g clip-path="url(#cp1)">
+      <rect width="860" height="142" fill="#161618"/>
+      <text x="96" y="100" text-anchor="end" class="num">01</text>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="141" rx="12" fill="none" stroke="#2c2c30"/>
+    <text x="110" y="30"><tspan class="title">01 &#183; Shine Glam</tspan><tspan class="role"> &#8212; E-commerce de Maquiagem</tspan></text>
+    <text x="110" y="52" class="desc">Site de vendas completo, com painel administrativo para produtos, pedidos e usuários, além de</text>
+    <text x="110" y="69" class="desc">painel do cliente para acompanhamento de compras.</text>
+    <g transform="translate(0,90)">
+      <rect x="110" y="0" width="86" height="24" rx="5" class="tagr"/><text x="153" y="16" text-anchor="middle" class="tagt">TypeScript</text>
+      <rect x="204" y="0" width="86" height="24" rx="5" class="tagr"/><text x="247" y="16" text-anchor="middle" class="tagt">JavaScript</text>
+      <rect x="298" y="0" width="46" height="24" rx="5" class="tagr"/><text x="321" y="16" text-anchor="middle" class="tagt">CSS3</text>
+      <rect x="352" y="0" width="53" height="24" rx="5" class="tagr"/><text x="378.5" y="16" text-anchor="middle" class="tagt">HTML5</text>
+      <rect x="413" y="0" width="60" height="24" rx="5" class="tagr"/><text x="443" y="16" text-anchor="middle" class="tagt">Vercel</text>
+      <rect x="481" y="0" width="73" height="24" rx="5" class="tagr"/><text x="517.5" y="16" text-anchor="middle" class="tagt">Supabase</text>
+    </g>
+  </g>
+
+  <!-- 02 Catalogo Facil -->
+  <g transform="translate(0,154)">
+    <g clip-path="url(#cp2)">
+      <rect width="860" height="142" fill="#161618"/>
+      <text x="96" y="100" text-anchor="end" class="num">02</text>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="141" rx="12" fill="none" stroke="#2c2c30"/>
+    <text x="110" y="30"><tspan class="title">02 &#183; Catálogo Fácil</tspan><tspan class="role"> &#8212; SaaS de Catálogos Digitais</tspan></text>
+    <text x="110" y="52" class="desc">Plataforma multi-tenant para criação e exibição de catálogos digitais, com planos Free/Pro,</text>
+    <text x="110" y="69" class="desc">pagamento via Karvis PAY e integração com WhatsApp.</text>
+    <g transform="translate(0,90)">
+      <rect x="110" y="0" width="86" height="24" rx="5" class="tagr"/><text x="153" y="16" text-anchor="middle" class="tagt">TypeScript</text>
+      <rect x="204" y="0" width="46" height="24" rx="5" class="tagr"/><text x="227" y="16" text-anchor="middle" class="tagt">CSS3</text>
+      <rect x="258" y="0" width="60" height="24" rx="5" class="tagr"/><text x="288" y="16" text-anchor="middle" class="tagt">Vercel</text>
+      <rect x="326" y="0" width="73" height="24" rx="5" class="tagr"/><text x="362.5" y="16" text-anchor="middle" class="tagt">Supabase</text>
+    </g>
+  </g>
+
+  <!-- 03 SGMP -->
+  <g transform="translate(0,308)">
+    <g clip-path="url(#cp3)">
+      <rect width="860" height="142" fill="#161618"/>
+      <text x="96" y="100" text-anchor="end" class="num">03</text>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="141" rx="12" fill="none" stroke="#2c2c30"/>
+    <text x="110" y="30"><tspan class="title">03 &#183; SGMP</tspan><tspan class="role"> &#8212; Sistema de Gestão e Monitoramento</tspan></text>
+    <text x="110" y="52" class="desc">Acompanhamento de projetos e tarefas, com cadastro de responsáveis e prazos, controle de</text>
+    <text x="110" y="69" class="desc">status, perfis de acesso e histórico em tempo real.</text>
+    <g transform="translate(0,90)">
+      <rect x="110" y="0" width="86" height="24" rx="5" class="tagr"/><text x="153" y="16" text-anchor="middle" class="tagt">TypeScript</text>
+      <rect x="204" y="0" width="46" height="24" rx="5" class="tagr"/><text x="227" y="16" text-anchor="middle" class="tagt">CSS3</text>
+      <rect x="258" y="0" width="53" height="24" rx="5" class="tagr"/><text x="284.5" y="16" text-anchor="middle" class="tagt">HTML5</text>
+      <rect x="319" y="0" width="60" height="24" rx="5" class="tagr"/><text x="349" y="16" text-anchor="middle" class="tagt">Vercel</text>
+      <rect x="387" y="0" width="73" height="24" rx="5" class="tagr"/><text x="423.5" y="16" text-anchor="middle" class="tagt">Supabase</text>
+    </g>
+  </g>
+
+  <!-- 04 SimBox -->
+  <g transform="translate(0,462)">
+    <g clip-path="url(#cp4)">
+      <rect width="860" height="142" fill="#161618"/>
+      <text x="96" y="100" text-anchor="end" class="num">04</text>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="141" rx="12" fill="none" stroke="#2c2c30"/>
+    <text x="110" y="30"><tspan class="title">04 &#183; SimBox</tspan><tspan class="role"> &#8212; Produto Digital</tspan></text>
+    <text x="110" y="52" class="desc">Plataforma para a comunidade de The Sims 4, estruturada para apresentação e distribuição de</text>
+    <text x="110" y="69" class="desc">conteúdos personalizados com foco na experiência do usuário.</text>
+    <g transform="translate(0,90)">
+      <rect x="110" y="0" width="86" height="24" rx="5" class="tagr"/><text x="153" y="16" text-anchor="middle" class="tagt">JavaScript</text>
+      <rect x="204" y="0" width="53" height="24" rx="5" class="tagr"/><text x="230.5" y="16" text-anchor="middle" class="tagt">HTML5</text>
+      <rect x="265" y="0" width="46" height="24" rx="5" class="tagr"/><text x="288" y="16" text-anchor="middle" class="tagt">CSS3</text>
+      <rect x="319" y="0" width="60" height="24" rx="5" class="tagr"/><text x="349" y="16" text-anchor="middle" class="tagt">Vercel</text>
+    </g>
+  </g>
+
+  <!-- 05 Protege Educ -->
+  <g transform="translate(0,616)">
+    <g clip-path="url(#cp5)">
+      <rect width="860" height="125" fill="#161618"/>
+      <text x="96" y="92" text-anchor="end" class="num">05</text>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="124" rx="12" fill="none" stroke="#2c2c30"/>
+    <text x="110" y="30" class="title">05 &#183; Protege Educ</text>
+    <text x="110" y="52" class="desc">Projeto voltado para soluções educacionais e organização de processos internos.</text>
+    <g transform="translate(0,72)">
+      <rect x="110" y="0" width="86" height="24" rx="5" class="tagr"/><text x="153" y="16" text-anchor="middle" class="tagt">TypeScript</text>
+      <rect x="204" y="0" width="46" height="24" rx="5" class="tagr"/><text x="227" y="16" text-anchor="middle" class="tagt">CSS3</text>
+    </g>
+  </g>
+
+  <!-- 06 Outros Projetos -->
+  <g transform="translate(0,753)">
+    <g clip-path="url(#cp6)">
+      <rect width="860" height="125" fill="#161618"/>
+      <text x="96" y="92" text-anchor="end" class="num">06</text>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="124" rx="12" fill="none" stroke="#2c2c30"/>
+    <text x="110" y="30" class="title">06 &#183; Outros Projetos</text>
+    <text x="110" y="52" class="desc">Aplicações web simples desenvolvidas para estudo, prática e consolidação de conhecimentos.</text>
+    <g transform="translate(0,72)">
+      <rect x="110" y="0" width="60" height="24" rx="5" class="tagr"/><text x="140" y="16" text-anchor="middle" class="tagt">GitHub</text>
+    </g>
+  </g>
+</svg>
