@@ -36,9 +36,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,django,mysql,git,github,gitlab,vercel,supabase,figma,ps,pr,vscode" />
 </div>
 
+<br/>
+
 ---
 
-## Linguagens
+<br/>
 
 <div align="center">
   <img src="./langs.svg" width="100%" alt="Linguagens mais usadas: TypeScript 93.23%, JavaScript 4.71%, CSS 1.77%, HTML 0.28%" />
