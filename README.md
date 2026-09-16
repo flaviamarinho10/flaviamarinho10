@@ -69,7 +69,7 @@
 ## Linguagens
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-pi-six.vercel.app/api/top-langs/?username=flaviamarinho10&title_color=eaeaea&text_color=8a8a8e&icon_color=cfcfd4&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="./langs.svg" width="100%" alt="Linguagens mais usadas: TypeScript 93.23%, JavaScript 4.71%, CSS 1.77%, HTML 0.28%" />
 </div>
 
 <br/>
