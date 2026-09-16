@@ -1,40 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 324" width="860" height="324" role="img" aria-label="Sobre mim">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 150" width="860" height="150" role="img" aria-label="Sobre mim: Formação, Atuação, Linguagens e Ferramentas">
+  <defs>
+    <symbol id="ic-formacao" viewBox="0 0 24 24">
+      <path d="M4 6.5c0 0 4-1.5 8 0 4-1.5 8 0 8 0v11c0 0-4-1.5-8 0-4-1.5-8 0-8 0z"/>
+      <path d="M12 6.5v11"/>
+    </symbol>
+    <symbol id="ic-atuacao" viewBox="0 0 24 24">
+      <rect x="4" y="8.5" width="16" height="10.5" rx="2"/>
+      <path d="M9 8.5V7c0-1.4 1-2 3-2s3 .6 3 2v1.5"/>
+      <path d="M4 13.5h16"/>
+    </symbol>
+    <symbol id="ic-ferramentas" viewBox="0 0 24 24">
+      <path d="M8.5 7.5 4 12l4.5 4.5"/>
+      <path d="M15.5 7.5 20 12l-4.5 4.5"/>
+    </symbol>
+  </defs>
   <style>
-    text { font-family: Arial, Helvetica, sans-serif; }
+    text { font-family: Arial, Helvetica, sans-serif; text-anchor: middle; }
     .label { font-size: 15px; font-weight: 600; fill: #eaeaea; }
     .desc { font-size: 12.5px; font-weight: 400; fill: #9a9a9e; }
-    .emoji { font-size: 19px; }
+    .ic { stroke: #dcdce0; fill: none; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
   </style>
 
-  <g>
-    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
-    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
-    <text x="36" y="42" text-anchor="middle" class="emoji">🎓</text>
-    <text x="72" y="30" class="label">Formação</text>
-    <text x="72" y="50" class="desc">Cursando Análise e Desenvolvimento de Sistemas (Estácio)</text>
+  <g transform="translate(0,0)">
+    <rect x="0" y="0" width="276" height="150" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <use href="#ic-formacao" class="ic" x="126" y="22" width="24" height="24"/>
+    <text x="138" y="74" class="label">Formação</text>
+    <text x="138" y="96" class="desc">Cursando Análise e Desenvolvimento</text>
+    <text x="138" y="112" class="desc">de Sistemas (Estácio)</text>
   </g>
 
-  <g transform="translate(0,84)">
-    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
-    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
-    <text x="36" y="42" text-anchor="middle" class="emoji">💼</text>
-    <text x="72" y="30" class="label">Atuação</text>
-    <text x="72" y="50" class="desc">Secretaria de Estado da Administração Penitenciária — Desenvolvedora Full Stack</text>
+  <g transform="translate(292,0)">
+    <rect x="0" y="0" width="276" height="150" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <use href="#ic-atuacao" class="ic" x="126" y="22" width="24" height="24"/>
+    <text x="138" y="74" class="label">Atuação</text>
+    <text x="138" y="96" class="desc">Secretaria de Estado da</text>
+    <text x="138" y="112" class="desc">Administração Penitenciária,</text>
+    <text x="138" y="128" class="desc">Desenvolvedora Full Stack</text>
   </g>
 
-  <g transform="translate(0,168)">
-    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
-    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
-    <text x="36" y="42" text-anchor="middle" class="emoji">📦</text>
-    <text x="72" y="30" class="label">Infoprodutos</text>
-    <text x="72" y="50" class="desc">Infoprodutora digital, criadora do SimBox (para The Sims 4)</text>
-  </g>
-
-  <g transform="translate(0,252)">
-    <rect x="0" y="0" width="860" height="72" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
-    <rect x="14" y="14" width="44" height="44" rx="10" fill="#202024"/>
-    <text x="36" y="42" text-anchor="middle" class="emoji">🚀</text>
-    <text x="72" y="30" class="label">Objetivo</text>
-    <text x="72" y="50" class="desc">Evolução constante no desenvolvimento de sistemas</text>
+  <g transform="translate(584,0)">
+    <rect x="0" y="0" width="276" height="150" rx="12" fill="#161618" stroke="#2c2c30" stroke-width="1"/>
+    <use href="#ic-ferramentas" class="ic" x="126" y="22" width="24" height="24"/>
+    <text x="138" y="74" class="label">Stack do dia a dia</text>
+    <text x="138" y="96" class="desc">Python, Django, TypeScript,</text>
+    <text x="138" y="112" class="desc">HTML5, CSS, GitHub e GitLab</text>
   </g>
 </svg>
