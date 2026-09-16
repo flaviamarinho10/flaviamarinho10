@@ -1,15 +1,11 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Flávia" />
-
   <br/>
-
   <img src="./subtitle.svg" alt="Desenvolvedora Fullstack" />
-
-  <p>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=flavinhareginaom@gmail.com"><img src="./assets/btn-gmail.svg" alt="Gmail" /></a>
-    &nbsp;
-    <a href="https://www.instagram.com/_flaviamarinhoo/"><img src="./assets/btn-instagram.svg" alt="Instagram" /></a>
-  </p>
+  <br/><br/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=flavinhareginaom@gmail.com"><img src="./assets/btn-gmail.svg" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/_flaviamarinhoo/"><img src="./assets/btn-instagram.svg" alt="Instagram" /></a>
 </div>
 
 <br/>
