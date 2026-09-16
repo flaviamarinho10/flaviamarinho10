@@ -12,7 +12,7 @@
   </p>
 </div>
 
----
+<br/>
 
 ## Sobre mim
 
@@ -20,7 +20,7 @@
   <img src="./about.svg" width="100%" alt="Formação, atuação, infoprodutos e objetivo" />
 </div>
 
----
+<br/>
 
 ## Projetos
 
@@ -28,15 +28,11 @@
   <img src="./projects.svg" width="100%" alt="Projetos: Shine Glam, Catálogo Fácil, SGMP, SimBox, Protege Educ, Outros Projetos" />
 </div>
 
----
-
-<div align="center">
-  <img src="./toolbox.svg" width="100%" alt="Toolbox: tecnologias e ferramentas" />
-</div>
-
 <br/>
 
----
+<div align="center">
+  <img src="./toolbox.svg" width="100%" alt="Arsenal: tecnologias e ferramentas" />
+</div>
 
 <br/>
 
