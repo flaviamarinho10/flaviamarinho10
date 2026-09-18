@@ -1,41 +1,49 @@
-<div align="center">
-  <img src="./banner.svg" width="100%" alt="Flávia" />
-  <br/>
-  <img src="./subtitle.svg" alt="Desenvolvedora Fullstack" />
-  <br/>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=flavinhareginaom@gmail.com"><img src="./assets/btn-gmail.svg" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/_flaviamarinhoo/"><img src="./assets/btn-instagram.svg" alt="Instagram" /></a>
-</div>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Flávia Regina, Desenvolvedora Full Stack" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/flaviaz"><img src="./assets/btn-linkedin.png" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:flavinhareginaom@gmail.com"><img src="./assets/btn-email.png" height="40" alt="E-mail" /></a>
+  <a href="https://instagram.com/_flaviamarinhoo"><img src="./assets/btn-instagram.png" height="40" alt="Instagram" /></a>
+</p>
 
-## Sobre mim
+<br />
 
-<div align="center">
-  <img src="./about.svg" width="100%" alt="Formação, atuação, infoprodutos e objetivo" />
-</div>
+<p align="center">
+  <img src="./assets/sobre.png" width="100%" alt="Sobre mim: Formação em ADS na Estácio, Dev na SEAP/RN, aprendendo Python e Django, stack TypeScript, React, Supabase, Vercel e Git" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.catalogofacil.shop/"><img src="./assets/destaque.png" width="100%" alt="Projeto em destaque: Catálogo Fácil" /></a>
+</p>
 
-## Projetos
+<p align="center">
+  <a href="https://www.catalogofacil.shop/"><img src="./assets/btn-site.png" height="40" alt="Ver site" /></a>
+</p>
 
-<div align="center">
-  <img src="./projects.svg" width="100%" alt="Projetos: Shine Glam, Catálogo Fácil, SGMP, SimBox, Protege Educ, Outros Projetos" />
-</div>
+<br />
 
-<br/>
+<p align="center">
+  <img src="./assets/titulo-outros.png" width="100%" alt="Outros projetos" />
+</p>
 
-<div align="center">
-  <img src="./toolbox.svg" width="100%" alt="Arsenal: tecnologias e ferramentas" />
-</div>
+<p align="center">
+  <a href="LINK_SHINE_GLAM"><img src="./assets/proj-shineglam.png" width="32%" alt="Shine Glam" /></a>
+  <a href="LINK_SGMP"><img src="./assets/proj-sgmp.png" width="32%" alt="SGMP" /></a>
+  <a href="LINK_PROTEGE_EDUC"><img src="./assets/proj-protegeeduc.png" width="32%" alt="Protege Educ" /></a>
+</p>
 
-<br/>
+<br />
 
-<div align="center">
-  <img src="./langs.svg" width="100%" alt="Linguagens mais usadas: TypeScript 93.23%, JavaScript 4.71%, CSS 1.77%, HTML 0.28%" />
-</div>
+<p align="center">
+  <img src="./assets/arsenal.png" width="100%" alt="Arsenal: HTML5, CSS3, JavaScript, TypeScript, React, Vite, Node.js, Python, Django, Supabase, MySQL, Vercel, Git, GitHub, GitLab, VS Code, Figma, Photoshop e Premiere" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="./assets/linguagens.png" width="100%" alt="Linguagens mais usadas" />
+</p>
 
-<img src="./footer.svg" width="100%" alt="" />
+<p align="center">
+  <img src="./assets/rodape.png" width="100%" alt="Feito com amor por Flávia" />
+</p>
