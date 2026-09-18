@@ -29,9 +29,13 @@
 </p>
 
 <p align="center">
-  <a href="LINK_SHINE_GLAM"><img src="./assets/proj-shineglam.png" width="32%" alt="Shine Glam" /></a>
-  <a href="LINK_SGMP"><img src="./assets/proj-sgmp.png" width="32%" alt="SGMP" /></a>
-  <a href="LINK_PROTEGE_EDUC"><img src="./assets/proj-protegeeduc.png" width="32%" alt="Protege Educ" /></a>
+  <a href="LINK_SHINE_GLAM"><img src="./assets/proj-shineglam.png" width="49%" alt="Shine Glam" /></a>
+  <a href="LINK_SGMP"><img src="./assets/proj-sgmp.png" width="49%" alt="SGMP" /></a>
+</p>
+
+<p align="center">
+  <a href="LINK_PROTEGE_EDUC"><img src="./assets/proj-protegeeduc.png" width="49%" alt="Protege Educ" /></a>
+  <a href="LINK_SIMBOX"><img src="./assets/proj-simbox.png" width="49%" alt="SimBox" /></a>
 </p>
 
 <br />
